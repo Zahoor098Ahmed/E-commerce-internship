@@ -54,7 +54,7 @@ const addNewCommentFunc = () => {
             result += `
                         <li class="comment-item">
                             <div class="comment-avatar">
-                                <img src="img/avatars/avatar1.jpg" alt="">
+                                <img src="img/avatars/avatar2.jpg" alt="">
                             </div>
                             <div class="comment-text">
                                 <ul class="comment-stars">
